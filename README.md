@@ -1,3 +1,5 @@
+[![JetBrains incubator project](http://jb.gg/badges/incubator-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 Kotlin.TeamCity
 ===============
 
