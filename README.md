@@ -1,4 +1,4 @@
-[![JetBrains incubator project](http://jb.gg/badges/incubator-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![JetBrains incubator project](https://jb.gg/badges/incubator-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 Kotlin.TeamCity
 ===============
@@ -8,7 +8,7 @@ required settings for IntelliJ IDEA build runner to build kotlin
 projects
 
 It declares all parameters as specified in 
-http://confluence.jetbrains.com/display/JET/Setting+up+a+TeamCity+build+that+uses+Kotlin
+https://confluence.jetbrains.com/display/JET/Setting+up+a+TeamCity+build+that+uses+Kotlin
 
 Installation
 ============
